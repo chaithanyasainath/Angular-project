@@ -1,0 +1,18 @@
+canvas {
+  /* width: 500px; */
+  /* height: 500px; */
+  color: red;
+  /* background-color: aquamarine; */
+}
+#canv {
+  position: "center";
+  margin-Left: "center";
+  margin-Right: "center";
+  top:10%;
+  left:0%;
+  right:80;
+  text-Align: "center";
+  z-index:9;
+  width:640;
+  height:480,    
+}
